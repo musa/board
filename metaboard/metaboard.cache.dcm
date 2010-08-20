@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0  Fri 20 Aug 2010 04:32:25 PM BRT
+#
+$CMP 7805
+D Linear Regulator +5V
+K POWER REGUL
+F regulator/lm78*.*
+$ENDCMP
+#
+$CMP ATMEGA168-P
+D ATMEGA168, PDIP28 Narrow, 16k Flash, 512B SRAM, 1k EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/dyn/resources/prod_documents/doc2545.pdf
+$ENDCMP
+#
+$CMP C
+D Capacitor non pol
+$ENDCMP
+#
+$CMP CONN_2
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_3
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_6
+D ymbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CONN_8
+D Symbole general de connecteur
+K CONN
+$ENDCMP
+#
+$CMP CP
+D Condensateur polarise
+$ENDCMP
+#
+$CMP DIODE
+D Diode simple
+K DEV DIODE
+$ENDCMP
+#
+$CMP R
+D Resistance
+K R DEV
+$ENDCMP
+#
+$CMP USB_2
+D USB Connector
+K USB usb CONNECTOR connector
+$ENDCMP
+#
+$CMP ZENER
+D Diode zener
+K DIODE ZENER
+$ENDCMP
+#
+#End Doc Library
